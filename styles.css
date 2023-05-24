@@ -1,0 +1,320 @@
+body {
+    background-color: #D9E6F6;
+}
+.menu{
+position: absolute;
+width: 1366px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+background: #5C9ECF;
+}
+div {
+    background-color: #FFFFFF;
+}
+
+#visualizacoes {
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;
+    padding-left: 20px;
+
+    /* gray1 */
+
+    color: #333333;
+
+}
+#visualizacoess {
+    position: absolute;
+    width: 566px;
+    height: 15px;
+    left: 24px;
+    top: 119px;
+
+    /* body - regular - 14 */
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    /* gray3 */
+
+    color: #999999;
+}
+#sorte {
+    position:absolute;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    left: 20px;
+    top: 162px;
+    
+
+    /* gray1 */
+
+    color: #333333;
+
+}
+.categoria p6{
+    position: absolute;
+width: 70px;
+height: 14px;
+left: 22px;
+top: 60px;
+
+font-family: 'Rubik';
+font-style: italic;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+/* gray2 */
+
+color: #5A5A5A;
+}
+
+.categoria p7{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 22px;
+    top: 76px;
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* gray2 */
+    
+    color: #5A5A5A;
+}
+#fotos{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 94px;
+    top: 60px;
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+}
+#fotoss{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 94px;
+    top: 76px;
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* gray2 */
+    
+    color: #5A5A5A;
+}
+#fotoscomigo{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 146px;
+    top: 60px;
+    white-space: nowrap;
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+}
+#fotosscomigo{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 168px;
+    top: 76px;
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* gray2 */
+    
+    color: #5A5A5A;
+}
+
+#fas{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 250px;
+    top: 60px;
+    white-space: nowrap;
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+}
+#fass{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 244px;
+    top: 76px;
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* gray2 */
+    
+    color: #5A5A5A;
+}
+
+#mensagens{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 292px;
+    top: 60px;
+    white-space: nowrap;
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+}
+#mensagenss{
+    position: absolute;
+    width: 70px;
+    height: 14px;
+    left: 307px;
+    top: 76px;
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* gray2 */
+    
+    color: #5A5A5A;
+}
+
+.bv {
+
+    position: absolute;
+    width: 618px;
+    height: 250px;
+    left: 298px;
+    top: 72px;
+    border-radius: 8px 60px 8px 8px;
+}
+
+.bv p {
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+    padding-left: 20px;
+
+    /* gray1 */
+
+    color: #333333;
+
+}
+
+.bv p3 {
+    position: absolute;
+    width: 566px;
+    height: 15px;
+    left: 24px;
+    top: 194px;
+
+    /* body - regular - 14 */
+
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    /* gray3 */
+
+    color: #999999;
+}
+
+h1 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px;
+}
+
+h3 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 15.4px;
+}
+
+p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+blockquote {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 21px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+pre {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 18.5714px;
+}
