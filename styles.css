@@ -10,10 +10,106 @@ top: 0px;
 
 background: #5C9ECF;
 }
-div {
+
+.sidemenu,.bv ,.categoria, .depoimentos{
     background-color: #FFFFFF;
 }
 
+.depoimentos{
+position: absolute;
+width: 618px;
+height: 231px;
+left: 298px;
+top: 301px;
+border-radius: 8px;
+}
+.depoimentos #depoimentosss{
+    position:absolute;
+    top:-19px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 33px;
+    padding-left: 20px;
+
+    /* gray1 */
+
+    color: #333333;
+
+}
+#markname{
+    position: absolute;
+    left: 8px;
+    top: -5px;
+    
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 14px;
+    height: 14px;
+    color:#333333;
+    
+}
+#markcom{
+    position: absolute;
+    height: 14px;
+    left: 13px;
+    top: 16px;
+    
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* gray2 */
+    
+    color: #5A5A5A;
+
+}
+.corazull{
+background-color: #DFEFFF;
+top: 100px;
+position: absolute;
+width: 475px;
+height: 132px;
+left: 442px;
+top: 343px;
+
+
+}
+#markcomm{
+    position: absolute;
+    height: 14px;
+    left: 13px;
+    top: 73px;
+    
+    
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    
+    /* gray2 */
+    
+    color: #5A5A5A;
+
+}
+.depoimentos img{
+display: inline;
+position:absolute;
+top:43px;
+left:14px;
+
+    width: 130px;
+height: 130px;
+
+}
 #visualizacoes {
 
     font-family: 'Rubik';
