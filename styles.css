@@ -57,7 +57,7 @@ div {
     font-size: 20px;
     line-height: 30px;
     left: 20px;
-    top: 162px;
+    top: 135px;
     
 
     /* gray1 */
@@ -227,11 +227,118 @@ color: #5A5A5A;
     color: #5A5A5A;
 }
 
+.sidemenu{
+    position: absolute;
+    width: 160px;
+    height: 345px;
+    left: -170px;
+    top: 0px;
+    border-radius: 8px 8px 8px 8px;
+
+
+}
+
+.sidemenu img{
+position: absolute;
+width: 130px;
+height: 130px;
+left: 15px;
+top: 18px;
+border-radius: 8px;
+}
+.sidemenu hr{
+    position: absolute;
+    top:149px;
+    left:7px;
+    width: 145px;
+    height: 0px;
+    
+    border: 1px;
+    color: gray;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+#linperfil,#linrecado,#linfotos,#linvideos,#lindepoimentos,#linatualizacoes
+{
+    color:#333333;
+}
+#perfill{
+    top: 177px;
+}
+#recadoss{
+    top:209px;
+}
+#linfotoss{
+top:239px;
+
+}
+#linvideoss{
+    top:270px;
+}
+#lindepoimentoss{
+    top:298px;
+}
+#linatualizacoess{
+    top: 328px;
+}
+.sidemenu p2{
+   /* body - regular - 14 */
+   position: absolute;
+    display:block;
+   font-family: 'Verdana';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 12px;
+   line-height: 15px;
+   /* identical to box height */
+  
+   margin: 0;
+   padding: 0;
+   line-height: 1.2;
+    left: 10px;
+
+    top:165px;
+   
+   /* gray3 */
+
+   color: #999999;
+}
+
+#linperfil {
+    top: 165px;
+}
+
+#linrecado {
+    top: 195px;
+}
+
+#linfotos {
+    top: 225px;
+}
+
+#linvideos {
+    top: 255px;
+}
+
+#lindepoimentos {
+    top: 285px;
+}
+
+#linatualizacoes {
+    top: 315px;
+}
+
+
 .bv {
 
     position: absolute;
     width: 618px;
-    height: 250px;
+    height: 217px;
     left: 298px;
     top: 72px;
     border-radius: 8px 60px 8px 8px;
@@ -257,7 +364,7 @@ color: #5A5A5A;
     width: 566px;
     height: 15px;
     left: 24px;
-    top: 194px;
+    top: 165px;
 
     /* body - regular - 14 */
 
