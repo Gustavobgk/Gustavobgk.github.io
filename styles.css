@@ -10,7 +10,67 @@ top: 0px;
 
 background: #5C9ECF;
 }
+.cor2{
+background-color:#DFEFFF;
+position: absolute;
+width: 147px;
+height: 190px;
+left: 7px;
+top: 157px;
+}
+.retangulo{
+    z-index: 1;
 
+}
+.menu{
+    display: inline;
+    color:#FFFFFF;
+    position:absolute;
+   
+}
+.topnav{
+    display: flex;
+    position: absolute;
+    top: 5px;
+}
+.topnav input{
+background: white;
+flex:1;
+border:0;
+outline: none;
+
+}
+.topnav img{
+   position: absolute;
+    height: 20px;
+   width: 20px;
+   left:1296px;
+   top:8px;
+}
+#butao{
+    position: relative;
+    top:10px;
+    width: 0%;
+    height: 10px;
+    color:azure;
+    left: 1290px;
+    
+    
+   
+}
+#pesquisa{
+    position: absolute;
+    width: 100px;
+    left: 1182px;
+    top: 10px;
+}
+.manipular{
+    position: absolute;
+    top:13px;
+    
+    
+
+}
 .sidemenu,.bv ,.categoria, .depoimentos{
     background-color: #FFFFFF;
 }
