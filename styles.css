@@ -1,6 +1,7 @@
 body {
     background-color: #D9E6F6;
 }
+
 .menu{
 position: absolute;
 width: 1366px;
@@ -79,10 +80,10 @@ outline: none;
 
 .depoimentos{
 position: absolute;
-width: 618px;
+width: 655px;
 height: 231px;
-left: 298px;
-top: 301px;
+left: 234px;
+top: 286px ;
 border-radius: 8px;
 }
 .depoimentos #depoimentosss{
@@ -137,10 +138,10 @@ border-radius: 8px;
 background-color: #DFEFFF;
 top: 100px;
 position: absolute;
-width: 475px;
+width: 511px ;
 height: 132px;
-left: 442px;
-top: 343px;
+left: 378px;
+top: 329px;
 
 
 }
@@ -384,12 +385,13 @@ color: #5A5A5A;
     
     color: #5A5A5A;
 }
+
 .galeria {
     position: absolute;
-    width: 415px;
+    width: 443px;
     height: 217px;
-    left: 926px;
-    top: 72px;
+    left: 906px;
+    top: 60px;
     background: #FFFFFF;
     border-radius: 8px;
   }
@@ -417,7 +419,7 @@ color: #5A5A5A;
     line-height: 33px;
     padding-left: 20px;
     position: absolute;
-    top:160px;
+    top:170px;
 
     /* gray1 */
 
@@ -433,16 +435,17 @@ color: #5A5A5A;
     position: relative;
     display: inline-block;
     margin: 15px;
+    margin-top: 20px;
   }
   
   .person img {
     display: inline;
-    width: 100px; /* Ajuste o tamanho da imagem conforme necessário */
-    height: 100px;
+    width: 110px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: 125px;
   }
   .person p{
     text-align: center;
-    top:-15px;
+    top:-20px;
     position: inherit;
   }
   
@@ -467,7 +470,7 @@ color: #5A5A5A;
   
 #texto_comunidades{
         position: absolute;
-        top:-22px;
+        top:-28px;
         font-family: 'Rubik';
         font-style: normal;
         font-weight: 400;
@@ -484,12 +487,13 @@ color: #5A5A5A;
     position: absolute;
     width: 160px;
     height: 345px;
-    left: -170px;
+    left: -175px;
     top: 0px;
     border-radius: 8px 8px 8px 8px;
 
 
 }
+
 
 .sidemenu img{
 position: absolute;
@@ -516,19 +520,23 @@ border-radius: 8px;
     flex-grow: 0;
 
 }
+.comunidades .person{
+    margin-bottom: -7%;
+    margin-top:2%;
+}
 .comunidades img{
  
         display: inline;
-        width: 90px; /* Ajuste o tamanho da imagem conforme necessário */
-        height: 90px;
+        width: 110px; /* Ajuste o tamanho da imagem conforme necessário */
+        height: 110px;
     
 }
 .comunidades{
     position: absolute;
-    width: 415px;
+    width: 443px;
     height: 347px;
-    left: 926px;
-    top: 300px;
+    left: 905px;
+    top: 286px;
     
     background: #FFFFFF;
     border-radius: 8px;
@@ -613,10 +621,10 @@ top:239px;
 .bv {
 
     position: absolute;
-    width: 618px;
+    width: 655px;
     height: 217px;
-    left: 298px;
-    top: 72px;
+    left: 232px;
+    top: 60px;
     border-radius: 8px 60px 8px 8px;
 }
 
