@@ -465,7 +465,21 @@ color: #5A5A5A;
     padding: 10px;
   }
   
-  
+#texto_comunidades{
+        position: absolute;
+        top:-22px;
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 28px;
+        line-height: 33px;
+        padding-left: 20px;
+    
+        /* gray1 */
+    
+        color: #333333;
+}
+
 .sidemenu{
     position: absolute;
     width: 160px;
@@ -501,6 +515,29 @@ border-radius: 8px;
     order: 0;
     flex-grow: 0;
 
+}
+.comunidades img{
+ 
+        display: inline;
+        width: 90px; /* Ajuste o tamanho da imagem conforme necessário */
+        height: 90px;
+    
+}
+.comunidades{
+    position: absolute;
+    width: 415px;
+    height: 347px;
+    left: 926px;
+    top: 300px;
+    
+    background: #FFFFFF;
+    border-radius: 8px;
+ 
+}
+.imagens_comunidade{
+    position: inherit;
+    top: 23px ;
+    left:15px;
 }
 #linperfil,#linrecado,#linfotos,#linvideos,#lindepoimentos,#linatualizacoes
 {
